@@ -659,5 +659,5 @@ para salir del editor :wq + enter
 8. Revisamos el proyecto para confirmar y podemos seguir creando cosas en nuestro proyecto.
 
 ---
-<h3 align="center">SOCIAL OPLESK</h3>
+<h3 align="center">ANGIE ARBOLEDA
 
