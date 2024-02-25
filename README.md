@@ -44,7 +44,6 @@ git remote add origin (pegar_la_ruta_del_repositorio_local)
 git remote -v
 ``` 
 
-(https://github.com/SocialOplesk/hack-git-1/blob/main/gifs/hack_git_1_process_h1.gif)
 5. Crear un archivo llamado lista_de_usuarios.txt
 ```
 touch lista_de_usuarios.txt
